@@ -1,4 +1,3 @@
-# app/controllers.py
 from app.models import Producto, Electronico, Carrito
 
 class Controller:

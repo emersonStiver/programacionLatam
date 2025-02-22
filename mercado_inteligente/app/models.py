@@ -1,5 +1,3 @@
-# app/models.py
-
 class Producto:
     def __init__(self, nombre, precio):
         self.__nombre = nombre  # Atributo privado
