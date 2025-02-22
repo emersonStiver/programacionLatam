@@ -18,17 +18,21 @@ Mercado Inteligente es una aplicación de escritorio desarrollada en Python que 
 
 ## Estructura del Proyecto
 
-```
-mercado_inteligente/
+``` bash
+.
 ├── README.md
-├── requirements.txt
+├── app
+│   ├── __init__.py
+│   ├── config.py
+│   ├── controllers.py
+│   ├── models.py
+│   └── views.py
+├── assets
+│   └── images
 ├── main.py
-└── app/
-├── __init__.py
-├── config.py         # Configuraciones (colores, estilos, etc.)
-├── controllers.py    # Lógica de negocio y controlador
-├── models.py         # Definición de las clases del dominio (Producto, Electronico, Carrito)
-└── views.py          # Vistas de la interfaz gráfica (Tkinter)
+└── requirements.txt
+
+
 ```
 
 ## Requisitos
