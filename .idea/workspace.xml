@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f1c055b-dafe-4d90-bb42-9823b2eff595" name="Changes" comment="docs" />
+    <list default="true" id="2f1c055b-dafe-4d90-bb42-9823b2eff595" name="Changes" comment="documentacion">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +50,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MainWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
@@ -93,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740189097533</updated>
-      <workItem from="1740194803269" duration="3569000" />
+      <workItem from="1740194803269" duration="4044000" />
     </task>
     <task id="LOCAL-00001" summary="estructura">
       <option name="closed" value="true" />
@@ -135,7 +143,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740197731564</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="docs">
+      <option name="closed" value="true" />
+      <created>1740199045128</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740199045128</updated>
+    </task>
+    <task id="LOCAL-00007" summary="documentacion">
+      <option name="closed" value="true" />
+      <created>1740199194149</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740199194149</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,13 +181,14 @@
     <MESSAGE value="models &amp; controllers" />
     <MESSAGE value="viewa &amp; config" />
     <MESSAGE value="docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs" />
+    <MESSAGE value="documentacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="documentacion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mercado_inteligente/app/models.py</url>
+          <url>file://$PROJECT_DIR$/app/models.py</url>
           <line>3</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -171,7 +196,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/programacionLatam$main.coverage" NAME="main Coverage Results" MODIFIED="1740196820179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mercado_inteligente" />
+    <SUITE FILE_PATH="coverage/programacionLatam$main.coverage" NAME="main Coverage Results" MODIFIED="1740199063247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programacionLatam$Supermercado.coverage" NAME="Supermercado Coverage Results" MODIFIED="1740195739494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

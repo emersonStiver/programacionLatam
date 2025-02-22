@@ -1,0 +1,21 @@
+# Archivos compilados de Python
+*.py[cod]
+__pycache__/
+
+# Entornos virtuales
+venv/
+ENV/
+env/
+
+# Archivos de distribución
+build/
+dist/
+*.egg-info/
+
+# Archivos de configuración del editor/IDE
+.vscode/
+.idea/
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
